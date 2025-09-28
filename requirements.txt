@@ -1,0 +1,10 @@
+# Core
+pandas>=2.2,<3.0
+matplotlib>=3.8,<4.0
+
+# Jupyter (so others can run the notebook)
+jupyterlab>=4.2,<5.0
+ipykernel>=6.29,<7.0
+
+# Optional: load values from .env if you use them
+python-dotenv>=1.0,<2.0
